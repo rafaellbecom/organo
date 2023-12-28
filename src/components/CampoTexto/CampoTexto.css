@@ -1,0 +1,27 @@
+.campo-texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+    margin: 24px 0;
+}
+
+.campo-texto label{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #212121;
+}
+
+.campo-texto input{
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #fff;
+    color: #a4a4a4;
+    border: none;
+    width: 100%;
+    box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.06);
+}

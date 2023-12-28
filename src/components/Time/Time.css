@@ -1,0 +1,26 @@
+.time{
+    text-align: center;
+    padding: 32px;
+
+}
+
+.time h3{
+    font-family: 'Lora', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 0;
+}
+
+.time .divisor{
+    width: 32px;
+    height: 4px;
+    margin: 16px auto;
+}
+
+.lista-colaboradores{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}

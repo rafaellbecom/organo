@@ -1,0 +1,38 @@
+.card-colaborador{
+    background-color: white;
+    border-radius: 20px;
+    width: 280px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.header-card-colaborador{
+    border-radius: 20px 20px 0px 0px;
+}
+
+.header-card-colaborador img{
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.info-card-colaborador{
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.info-card-colaborador h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #6278F7;
+    margin-bottom: 0;
+}
+
+.info-card-colaborador h5{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 10px;
+}
